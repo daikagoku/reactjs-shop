@@ -1,0 +1,8 @@
+.group{
+	display: flex;
+	align-items: stretch;
+	justify-content: stretch;
+	padding:0.3em;
+	border-radius: 0.5em !important;
+	background: #fff;
+}
